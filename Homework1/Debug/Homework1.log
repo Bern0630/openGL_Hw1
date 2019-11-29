@@ -1,0 +1,5 @@
+﻿  MainCharacter.cpp
+d:\homework1\homework1\maincharacter.cpp(129): warning C4390: ';': 找到空白的控制陳述式，是正確的嗎?
+d:\homework1\homework1\maincharacter.cpp(132): warning C4390: ';': 找到空白的控制陳述式，是正確的嗎?
+d:\homework1\homework1\maincharacter.cpp(135): warning C4390: ';': 找到空白的控制陳述式，是正確的嗎?
+LINK : fatal error LNK1104: 無法開啟檔案 'freeglut.lib'
